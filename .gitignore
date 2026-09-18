@@ -1,0 +1,8 @@
+# Trained model artifacts (regenerate via the notebooks)
+*.pkl
+
+# Python / tooling caches
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+catboost_info/
